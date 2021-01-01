@@ -10,6 +10,10 @@
  * common to all figures.
  * Each figure inherits from this class and initializes with
  * its own layout.
+ * 
+ * The following was referred to understand the layout of pieces and the rotation logic:
+ * https://www.youtube.com/watch?v=zH_omFPqMO4
+ * 
  */
 class BaseFigure
 {
